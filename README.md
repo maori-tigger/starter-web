@@ -8,9 +8,7 @@ more changes from myfeaturebranch
 
 ## Purpose
 
-Sample website with plenty of files for demos
-
-change readme
+emergency fix after stash
 
 ## Deployment
 
