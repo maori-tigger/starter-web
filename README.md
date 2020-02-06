@@ -38,3 +38,5 @@ asdfadf
 ### Copyright section
 
 bla
+
+Please fork this repository bla
