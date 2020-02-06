@@ -41,6 +41,8 @@ asdfadf
 
 ### Copyright section
 
+All rights reserved
+
 bla
 
 Please fork this repository bla
